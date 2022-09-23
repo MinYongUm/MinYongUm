@@ -1,5 +1,4 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+<h1> 🤞 Nice way to meet me <br><br>
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -13,5 +12,4 @@ AngularJS-powered HTML5 Markdown editor.
 
 - ✨Magic ✨
 - ✨Magic ✨
-
 
