@@ -7,9 +7,11 @@
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 
-- ✨Magic ✨
-- ✨Skill ✨
+<h1> ✨Magic ✨<br>
 
-- ✨Magic ✨
-- ✨Magic ✨
+<h1> ✨Skill ✨<br>
+
+<h1> ✨Magic ✨<br>
+
+<h1> ✨Magic ✨<br>
 
