@@ -1,17 +1,17 @@
 <h1> 🤞 Nice way to meet me <br><br>
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+Hi. update..ing
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<h1> ✨Magic ✨<br><br>
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+<h1> ✨Skill ✨<br><br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-<h1> ✨Magic ✨<br>
+<h1> ✨Magic ✨<br><br>
 
-<h1> ✨Skill ✨<br>
-
-<h1> ✨Magic ✨<br>
-
-<h1> ✨Magic ✨<br>
+<h1> ✨Magic ✨<br><br>
 
