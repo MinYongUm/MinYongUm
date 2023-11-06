@@ -1,4 +1,4 @@
-<h1> 🤞 Nice way to meet me <br>
+<h1> 🤞MinYongUm <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brianna)](https://solved.ac/brianna/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYongUm)](https://github.com/MinYongUm/github-readme-stats)
