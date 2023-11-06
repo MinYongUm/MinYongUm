@@ -1,7 +1,7 @@
 <h1> 🤞MinYongUm <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyong_e89)](https://solved.ac/minyong_e89/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYongUm)](https://github.com/MinYongUm/github-readme-stats)
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical)
 
 <h1> ✨Skill ✨<br><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
