@@ -1,5 +1,5 @@
 <h1> 🤞Eom Min Yong😉<br><br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={minyong_e89})](https://solved.ac/{minyong_e89})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical)
 
