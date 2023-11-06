@@ -1,7 +1,7 @@
 <h1> 🤞 Nice way to meet me <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brianna)](https://solved.ac/brianna/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYongUm)](https://github.com/bokyung95/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYongUm)]
   
 <h1> ✨Skill ✨<br><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
