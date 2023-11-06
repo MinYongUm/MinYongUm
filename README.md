@@ -1,5 +1,4 @@
-<h1> 🤞 Nice way to meet me <br><br>
-
+<h1> 🤞 Nice way to meet me <br>
 <h1> ✨Skill ✨<br><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   
