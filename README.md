@@ -1,4 +1,4 @@
-<h1> 🤞Eom Min Yong😉<br>
+<h1> 🤞Eom Min Yong😉<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyong_e89)](https://solved.ac/minyong_e89/)
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical)
