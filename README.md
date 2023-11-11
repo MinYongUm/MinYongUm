@@ -1,4 +1,4 @@
-<h1 align="center"> 🤞Eom Min Yong😉<br><br>
+<h3 align="center"> 🤞Eom Min Yong😉 </h3><br><br>
 
 <p align="center">
 🚀 저는 Network 엔지니어 출신 개발자이며, 항상 발전하고 싶은 생각을 합니다. 👩‍🚀
@@ -9,7 +9,7 @@
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical)
 
-<h1 align="center"> ✨Skill ✨<br><br>
+<h3 align="center"> ✨Skill ✨ </h3><br><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
