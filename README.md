@@ -1,5 +1,12 @@
 <h1 align="center"> 🤞Eom Min Yong😉<br><br>
 
+<p align="center">
+🚀 저는 Network 엔지니어 출신 개발자이며, 항상 발전하고 싶은 생각을 합니다. 👩‍🚀
+</p>
+<p align="center">
+매 순간 좋아하는 일을 한다는 것에 감사하며, 오늘도 최선을 다하기 위해 노력하고 있습니다🏄🏻‍♂️
+</p>
+
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical)
 
 <h1 align="center"> ✨Skill ✨<br><br>
