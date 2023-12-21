@@ -21,15 +21,15 @@
 
 <h3 align="center"> 📊 GitHub Stats 📊 </h3>
 <p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical"/></a>
+	<img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical"/>
 </p><br>  
 
 <h3 align="center"> :beginner: Backjoon Solved Lank :beginner: </h3>
 <p align="center"> 
-	<img src="http://mazassumnida.wtf/api/generate_badge?boj=codetestminyong"/></a>
+	<img src="http://mazassumnida.wtf/api/generate_badge?boj=codetestminyong"/>
 </p><br>  
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-	<a href="mailto:minyong_e89@naver.com"><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"&link=minyong_e89@naver.com"/></a>
+	<img src="mailto:minyong_e89@naver.com"><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"&link=minyong_e89@naver.com"/>
 </p>
