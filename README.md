@@ -31,5 +31,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={codetestminyong})](https://solved.ac/{codetestminyong})
 <p align="center"> 
-	<img src="http://mazassumnida.wtf/api/generate_badge?boj={codetestminyong}"/></a>
+	<img src="http://mazassumnida.wtf/api/generate_badge?boj=codetestminyong"/></a>
 </p><br> 
