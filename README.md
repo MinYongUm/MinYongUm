@@ -31,5 +31,5 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-	<img src="mailto:minyong_e89@naver.com"><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"&link=minyong_e89@naver.com"/>
+	<a href="mailto:minyong_e89@naver.com"><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"&link=minyong_e89@naver.com"/></a>
 </p>
