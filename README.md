@@ -24,7 +24,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical"/></a>
 </p><br>  
 
-<h3 align="center"> 📊 GitHub Stats 📊 </h3>
+<h3 align="center"> :beginner: Backjoon Solved Lank :beginner: </h3>
 <p align="center"> 
 	<img src="http://mazassumnida.wtf/api/generate_badge?boj=codetestminyong"/></a>
 </p><br>  
