@@ -7,11 +7,6 @@
 	매 순간 좋아하는 일을 한다는 것에 감사하며, 오늘도 최선을 다하기 위해 노력하고 있습니다. 🏄🏻‍♂️
 </p><br>
 
-<h3 align="center"> 📊 GitHub Stats 📊 </h3>
-<p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical"/></a>
-</p><br>  
-
 <h3 align="center"> 🛠 Tech 🛠 </h3>
 <p align="center"> 
 	<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp  
@@ -24,11 +19,17 @@
  	<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 </p><br>
 
+<h3 align="center"> 📊 GitHub Stats 📊 </h3>
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical"/></a>
+</p><br>  
+
+<h3 align="center"> 📊 GitHub Stats 📊 </h3>
+<p align="center"> 
+	<img src="http://mazassumnida.wtf/api/generate_badge?boj=codetestminyong"/></a>
+</p><br>  
+
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
 	<a href="mailto:minyong_e89@naver.com"><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"&link=minyong_e89@naver.com"/></a>
 </p>
-
-<p align="center"> 
-	<img src="http://mazassumnida.wtf/api/generate_badge?boj=codetestminyong"/></a>
-</p><br> 
