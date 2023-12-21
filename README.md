@@ -19,13 +19,9 @@
  	<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 </p><br>
 
-<h3 align="center"> 📊 GitHub Stats 📊 </h3>
+<h3 align="center"> 📊 GitHub Stats & Backjoon Solved Lank :beginner:</h3>
 <p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical"/>
-</p><br>  
-
-<h3 align="center"> :beginner: Backjoon Solved Lank :beginner: </h3>
-<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical"/>&nbsp&nbsp&nbsp
 	<img src="http://mazassumnida.wtf/api/generate_badge?boj=codetestminyong"/>
 </p><br>  
 
