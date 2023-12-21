@@ -7,6 +7,12 @@
 	매 순간 좋아하는 일을 한다는 것에 감사하며, 오늘도 최선을 다하기 위해 노력하고 있습니다. 🏄🏻‍♂️
 </p><br>
 
+<h3 align="center">⌛ My Study Diary ⏳</h3>
+<p align="center">
+	<a href="https://wealthy-sphynx-f51.notion.site/fda9c08ef9a4416092276319eb377aff?v=ea47b150935e4aaf8398b684a2d437a1&pvs=4">
+	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+</p><br>
+
 <h3 align="center"> 🛠 Tech 🛠 </h3>
 <p align="center"> 
 	<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp  
@@ -24,12 +30,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=radical"/>&nbsp&nbsp&nbsp
 	<img src="http://mazassumnida.wtf/api/generate_badge?boj=codetestminyong"/>
 </p><br>  
-
-<h3 align="center">🌈 My Study Diary 🌈</h3>
-<p align="center">
-	<a href="https://wealthy-sphynx-f51.notion.site/fda9c08ef9a4416092276319eb377aff?v=ea47b150935e4aaf8398b684a2d437a1&pvs=4">
-	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-</p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
