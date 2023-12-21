@@ -28,7 +28,7 @@
 <h3 align="center">🌈 My Study Diary 🌈</h3>
 <p align="center">
 	<a href="https://wealthy-sphynx-f51.notion.site/fda9c08ef9a4416092276319eb377aff?v=ea47b150935e4aaf8398b684a2d437a1&pvs=4">
-	<img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"&link=minyong_e89@naver.com"/></a>
+	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
