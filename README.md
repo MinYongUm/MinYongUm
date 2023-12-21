@@ -28,8 +28,7 @@
 <p align="center">
 	<a href="mailto:minyong_e89@naver.com"><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"&link=minyong_e89@naver.com"/></a>
 </p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={codetestminyong})](https://solved.ac/{codetestminyong})
+
 <p align="center"> 
 	<img src="http://mazassumnida.wtf/api/generate_badge?boj=codetestminyong"/></a>
 </p><br> 
