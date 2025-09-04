@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minyong%20developer&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minyong%20Engineer&fontSize=90"/>
 
 <h3 align="center"> Eom Min Yong 😉 </h3><br>
 
