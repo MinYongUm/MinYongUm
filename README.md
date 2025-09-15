@@ -62,10 +62,3 @@
 <br>
 
 ---
-
-### 🐍 My Contribution Graph Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MinYongUm/MinYongUm/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:262626,100:8652FF&height=150&section=footer"/>
