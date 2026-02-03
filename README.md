@@ -41,18 +41,8 @@
 
 ### 📊 Engineering Activities
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=onedark&hide_border=true&bg_color=262626" width="400"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinYongUm&layout=compact&theme=onedark&hide_border=true&bg_color=262626" width="300"/>
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinYongUm&theme=onedark&hide_border=true&background=262626" alt="GitHub Streak" />
-</div>
+  <p align="center">
+    <img src="https://stats.hyo.dev/api/github-stats?login=MinYongUm" width="100%" alt="Developer Power Meter" />
+  </p>
 
 ---
