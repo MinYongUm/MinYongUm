@@ -1,33 +1,58 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8652FF&height=200&section=header&text=Eom%20Min%20Yong&fontSize=50&animation=fadeIn"/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=8652FF&height=150&section=header&text=Eom%20Min%20Yong&fontSize=50&animation=fadeIn" />
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A67CFF&center=true&vCenter=true&width=435&lines=Network+Automation;Security+Research;Infrastructure+as+Code)](https://git.io/typing-svg)
-
-  <p>
-    <a href="https://your-blog-link.com"><img src="https://img.shields.io/badge/NEXUSHIELD-Technical_Blog-8652FF?style=for-the-badge&logo=ghost" /></a>
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8652FF&center=true&vCenter=true&width=550&lines=Network+Engineer;AI+Network;Network+Automation;NetDevOps" alt="Typing SVG" />
+  </a>
 </div>
+
+## 👨‍💻 About Me
+> **"네트워크 인프라에 자동화의 가치를 더하는 엔지니어입니다."**
+
+실무 네트워크 엔지니어의 경험을 바탕으로, **서강대학교** **AI·SW대학원**(**정보보호 전공**)에서 전문성을 쌓고 있습니다. 반복되는 운영 업무를 효율화하는 **Network Automation**과 **AI Network**에 관심이 많으며, 공부한 내용을 **TTL64** 블로그와 개인 **Notion**에 기록하며 공유하고 있습니다.
+
+* 🎓 **Education:** 서강대학교 AI SW 대학원 정보보호 전공, 재학 중
+* 🛠️ **Main Focus:** Cisco ACI 기반 네트워크 운영 및 Python 자동화
+* 🚀 **Current Project:** Python Netmiko, FastAPI 운영 도구 개발
+* 🔗 **Connect:** <a href="https://ttl64.tistory.com"><img src="https://img.shields.io/badge/Blog-TTL64-8652FF?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-gray?style=flat-square&logo=linkedin"/>
 
 ---
 
-### 🚀 Quick Glance
-- 🛠️ **Focus:** Cisco ACI, Network Automation, Python/Ansible
-- 🎓 **Education:** M.S. in Information Security
-- 🛠️ **Current:** Developing `ACI Ops Platform`
+### 🛠️ Expertise & Stack
 
-### 🛠️ Core Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco%20ACI-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
-</div>
-
----
-
-### 📈 Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=transparent&title_color=8652FF&text_color=ffffff&icon_color=8652FF&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinYongUm&layout=compact&theme=transparent&title_color=8652FF&text_color=ffffff&icon_color=8652FF&hide_border=true" width="42%">
+**Academic & Security**
+<p>
+  <img src="https://img.shields.io/badge/Sogang%20Univ-8B0029?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Science-3776AB?style=flat-square&logo=computer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Information%20Security-CC0000?style=flat-square&logo=target&logoColor=white"/>
 </p>
+
+**Network & Automation**
+<p>
+  <img src="https://img.shields.io/badge/Cisco%20ACI-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Engineering Activities
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MinYongUm&show_icons=true&theme=onedark&hide_border=true&bg_color=262626" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinYongUm&layout=compact&theme=onedark&hide_border=true&bg_color=262626" width="300"/>
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MinYongUm&theme=onedark&hide_border=true&bg_color=262626" alt="WakaTime Stats"/>
+</div>
+
+---
