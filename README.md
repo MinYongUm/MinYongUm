@@ -7,7 +7,7 @@
 </div>
 
 ## 👨‍💻 About Me
-> **"네트워크 인프라에 자동화의 가치를 더하는 엔지니어입니다."**
+> **"반복을 줄이고 효율성을 만듭니다. 네트워크 자동화에 진심인 엔지니어입니다."**
 
 실무 네트워크 엔지니어의 경험을 바탕으로, **서강대학교** **AI·SW대학원**(**정보보호 전공**)에서 전문성을 쌓고 있습니다. 반복되는 운영 업무를 효율화하는 **Network Automation**과 **AI Network**에 관심이 많으며, 공부한 내용을 **TTL64** 블로그와 개인 **Notion**에 기록하며 공유하고 있습니다.
 
@@ -52,7 +52,7 @@
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MinYongUm&theme=onedark&hide_border=true&bg_color=262626" alt="WakaTime Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinYongUm&theme=onedark&hide_border=true&background=262626" alt="GitHub Streak" />
 </div>
 
 ---
