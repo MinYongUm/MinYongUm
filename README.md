@@ -25,8 +25,9 @@
 **Academic & Security**
 <p>
   <img src="https://img.shields.io/badge/Sogang%20Univ-8B0029?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Science-3776AB?style=flat-square&logo=computer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Information%20Security-CC0000?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seoul%20Digital%20Univ-004680?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Science-3776AB?style=flat-square&logo=computer&logoColor=white"/>
 </p>
 
 **Network & Automation**
@@ -36,6 +37,12 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</p>
+
+**Cloud**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
