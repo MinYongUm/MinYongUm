@@ -42,10 +42,6 @@
 ### 📊 Engineering Activities
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MinYongUm/MinYongUm/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Calendar" />
-
-  <br/>
-
   <p align="center">
     <img src="https://stats.hyo.dev/api/github-stats?login=MinYongUm" width="100%" alt="Developer Power Meter" />
   </p>
